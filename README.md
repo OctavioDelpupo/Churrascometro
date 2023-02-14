@@ -1,9 +1,5 @@
 # Churrascômetro
 
-<div align="center">
-   Projeto desenvolvido no curso do ProgBR
-</div>
-
 <p align="center">
   <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,6 +7,9 @@
 </p>
 
 ## :clipboard: Sobre o Projeto
+<div align="center">
+   Projeto desenvolvido no curso do ProgBR
+</div>
 
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 </br>
