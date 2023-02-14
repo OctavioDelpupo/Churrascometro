@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sansita
+- Font Author: Copyright 2016 The Sansita Project Authors (omnibus.type@gmail.com)
+- Font Source: http://fonts.gstatic.com/s/sansita/v10/QldLNTRRphEb_-V7JJ2WaXl0wqVv3_g.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
