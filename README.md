@@ -8,6 +8,7 @@
 
 ## :clipboard: Sobre o Projeto
 
+![notebook](./assets/img/MacBook.png)
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 </br>
 com base nas informações seguintes:
