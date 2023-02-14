@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Noto Sans', sans-serif;  
+    background-color: #201b2c;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;       
+}
+
+.left-barbecue{
+    width: 50vw;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+.left-barbecue > h1 {
+    font-size: 3vw;
+    color: #FF725E;    
+}
+
+.left-barbecue-img{
+    width: 30vw;
+}
+
+.right-barbecue{     
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.card-barbecue{
+    width: 60%;
+    width: 60%;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px; /*30px (top - bottom) 35px (left - right) */
+    background-color: #2f2841;    
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056 ;
+}
+
+.card-barbecue > h1 {
+    color: #FF725E;
+    font-weight: 800;
+    margin: 0;
+}
+
+.box-barbecue{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;   
+}
+
+.box-barbecue > input{
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #514869;
+    color:  #f0ffffde;
+    font-size: 12pt;
+    box-shadow: 0px 10px 40px #00000056 ;
+    outline: none;
+    box-sizing: border-box;
+    margin: 10px 0px;
+}
+
+.box-barbecue > label {
+    color:  #f0ffffde;
+    margin-top: 10px;
+}
+
+.box-barbecue > input::placeholder{
+    color: #f0ffff94;
+}
+
+.btn-barbecue{
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: #2b134b;
+    background-color: #FF725E;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px #FF725E;
+}
+
+.result-info {
+    color: #FF725E;
+}
+.result-barbecue{
+    color: #f0ffff94;
+}

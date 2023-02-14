@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/style.css">
+    <link rel="stylesheet" href="./assets/midia.css">
+    <title>Churrascometro</title>
+</head>
+<body>
+    <main class="container">
+        <div class="left-barbecue">
+            <h1>Faça seu Churrasco</h1>
+            <img class="left-barbecue-img" src="./assets/img/barbecue.svg" alt="">
+        </div>
+        <div class="right-barbecue">
+            <div class="card-barbecue">
+                <h1>Churrascometro</h1>                
+                <div class="box-barbecue">
+                    <label for="adulto">Adulto</label>
+                    <input id="adultos" type="number" name="adultos">
+                </div>
+                <div class="box-barbecue">
+                    <label for="criancas">Crianças</label>
+                    <input id="criancas" type="number" name="crianca">
+                </div>
+                <div class="box-barbecue">
+                    <label for="timer">Tempo</label>
+                    <input id="duracao" type="number" name="duracao">
+                </div>
+                <button class="btn-barbecue" onclick="calcular()">Calcular</button>
+                <div id="resultado" class="result-barbecue"></div>                
+            </div>
+        </div>       
+    </main>
+    <script src="./assets/script.js"></script>
+</body>
+</html>

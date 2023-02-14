@@ -1,0 +1,29 @@
+@media only screen and (max-width: 950px){
+    .card-barbecue{
+        width: 85%;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .container{
+        flex-direction: column;        
+    }
+    .left-barbecue > h1 {
+        display: none;    
+    }
+    .left-barbecue{
+        width: 100%;
+        height: auto;
+    }
+    .right-barbecue{
+        width: 100%;
+        height: auto;
+    }
+    .left-barbecue-img{
+        width: 50vw;
+    }
+    .card-barbecue{
+        width: 90%;
+    }
+
+}
