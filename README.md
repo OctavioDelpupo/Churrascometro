@@ -24,6 +24,8 @@ Refrigerante/água - 1000ml por pessoa + 6 horas 1500ml
 </br>
 Crianças valem por 0,5.
 
+Calcule [aqui](https://churrascometro-virid.vercel.app/) o seu churrasco.
+
 ## :computer: Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
