@@ -8,7 +8,7 @@
 
 ## :clipboard: Sobre o Projeto
 <div align="center">
-   Projeto desenvolvido no curso do ProgBR
+   <h2>Projeto desenvolvido no curso do ProgBR</h2>
 </div>
 
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
