@@ -53,10 +53,10 @@ function calcular() {
       <p>🥩 ${qdtTotalCarne/1000} Kg de Carne</p>   
   `
   resultado.innerHTML += `      
-      <p>🍹 ${Math.ceil(qdtTotalCerveja/355)} latas de Cerveja</p>
+      <p>🍺 ${Math.ceil(qdtTotalCerveja/355)} latas de Cerveja</p>
   `
   resultado.innerHTML += `   
-      <p> 🍺 ${Math.ceil(qdtTotalBebidas/2000)} garrafas de Bebidas</p>
+      <p>🍹 ${Math.ceil(qdtTotalBebidas/2000)} garrafas de Bebidas</p>
   `
 }
 
